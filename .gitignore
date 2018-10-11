@@ -28,3 +28,4 @@ bin/
 .project
 library.obj
 module-info.java
+/testbin/
