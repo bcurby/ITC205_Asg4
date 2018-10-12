@@ -27,3 +27,5 @@ bin/
 .classpath
 .project
 library.obj
+module-info.java
+/testbin/
